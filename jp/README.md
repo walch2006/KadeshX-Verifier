@@ -36,7 +36,7 @@
 
 ## 🛠 コア技術検証 (Core Tech Repos)
 私たちは単に小説を書いているのではなく、基盤プロトコルを構築しています。
-- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現する Rust プロトタイプ。
+- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現する Rust プロトタイプ。
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: 48バイト論理崩壊ストレージの数学的仕様。
 
 ## 💬 論理共鳴 (Join the Discussion)

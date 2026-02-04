@@ -36,7 +36,7 @@ This project is the public serialization platform for the "Lin Huashu-Lingxi" lo
 
 ## 🛠 Core Tech Repos
 We are not just writing a novel; we are building the underlying protocols.
-- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier)**: Rust prototype for "Operator Self-Adjointness Verification" and "Asset Distribution Irreversibility."
+- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)**: Rust prototype for "Operator Self-Adjointness Verification" and "Asset Distribution Irreversibility."
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: Mathematical specification for 48-byte logic-collapsed storage.
 
 ## 💬 Join the Discussion

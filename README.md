@@ -11,7 +11,7 @@
 ## 🛠 技术索引 (Technical Index)
 - **BMA**: [ZH](./zh/technical_annex/BMA_Architecture.md) | [EN](./en/technical_annex/BMA_Architecture.md) | [JP](./jp/technical_annex/BMA_Architecture.md)
 - **LCS**: [ZH](./zh/technical_annex/LCS_Logic.md) | [EN](./en/technical_annex/LCS_Logic.md) | [JP](./jp/technical_annex/LCS_Logic.md)
-- **KadeshX**: [Verification Code (Rust)](https://github.com/walch2006/KadeshX-Verifier)
+- **KadeshX**: [Verification Code (Rust)](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)
 - **KadeshX (Official Repo)**: [walch2006/KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier)
 
 ## 📖 连载与预告 (Serialization & Roadmap)

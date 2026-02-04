@@ -36,7 +36,7 @@
 
 ## 🛠 硬核技术验证 (Core Tech Repos)
 我们不只是在写小说，我们正在构建底层协议。
-- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier)**: 实现小说中提到的“算子自伴随性验证”与“资产分配不可逆性”的 Rust 原型。
+- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)**: 实现小说中提到的“算子自伴随性验证”与“资产分配不可逆性”的 Rust 原型。
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: 48字节逻辑坍缩存储的数学规范。
 
 ## 💬 逻辑共振 (Join the Discussion)
