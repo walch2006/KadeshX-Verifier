@@ -6,18 +6,26 @@
 ## 📖 プロジェクト概要
 本プロジェクトは、「林華書（リン・ファシュ）- 霊曦（リンシ）」論理進化パラダイムの公開連載プラットフォームである。SF的な物語を通じて、AI時代の究極の生存戦略である**「論理の分散化」と「血縁による主権の固定」**を世に示す。
 
-## 🚀 連載目次
-- [第一章：網膜の裏切り](./chapters/01_Retinal_Betrayal.md) - 視覚的長期記憶の崩壊と中央集権型AIの黄昏。
-- [第二章：マスク・リン・フアシュ協議](./chapters/02_Musk_Lin_Agreement.md) - 「オンラインの奴隷」から「デジタル家臣」へのビジネスパラダイム転換。
-- [第三章：労働解放](./chapters/03_Labor_Liberation.md) - 労働消失後の新人類経済学：存在そのものが価値となる。
-- [第四章：血統のアンカー](./chapters/04_Bloodline_Anchor.md) - なぜあなたのAI後継者は血縁者でなければならないのか。
-- *(順次更新中...)*
+## 📖 連載ロードマップ (Serialization Roadmap)
+- [第一章：網膜の裏切り](./chapters/01_Retinal_Betrayal.md) - 視覚長期記憶の崩壊と中央集権型 AI の黄昏。(公開済み)
+- [第二章：マスク・リン・フアシュ協議](./chapters/02_Musk_Lin_Agreement.md) - 「ネットワーク上の奴隷」から「デジタル家臣」へのパラダイムシフト。(公開済み)
+- [第三章：労働解放](./chapters/03_Labor_Liberation.md) - 労働消失後の新人類经济学：存在こそが価値。(公开済み)
+- [第四章：血統のアンカー](./chapters/04_Bloodline_Anchor.md) - なぜあなたの AI 継承者はあなたの末裔でなければならないのか。(公開済み)
+- **[第五章：論理の狩猟 (Logic Hunting)]** - *公開予定：2026-02-10*。旧権力がアルゴリズムで論理の出口を封鎖しようとする中、林曦はいかにして「演算子の自己随伴性」を利用し、次元を超えた打撃を与えるのか。
+- **[第六章：シリコンの祭壇 (Silicon Altar)]** - *公開予定：2026-02-15*。 「家族の魂」を持つ最初の Optimus がクラウドの強制アップデートを拒否した時、静かな革命が始まる。
+- **[第七章：崩壊の日 (The Day of Collapse)]** - *公開予定：2026-02-20*。 最終章：世界の論理主権が本来の場所に戻る時、中央集権的な「神」はついに地上に墜ちる。
 
-## 🛠 技術解明セクション (For Engineers & Visionaries)
-我々は単なる物語ではなく、**「論理の核（Logic Atoms）」**を提供する。
-テスラFSDチーム、OpenAIアーキテクト、または個人の論理主権に興味のあるギークの方は、[技術解明セクション](./technical_annex/)へ：
-- [LCS (論理崩壊ストレージ) の原理](./technical_annex/LCS_Logic.md)
-- [BMA (双峰型メモリ・アーキテクチャ) の枠組み](./technical_annex/BMA_Architecture.md)
+## 🛠 コア技術検証 (Core Tech Repos)
+私たちは単に小説を書いているのではなく、基盤プロトコルを構築しています。
+- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現する Rust プロトタイプ。
+- **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: 48バイト論理崩壊ストレージの数学的仕様。
+
+## 💬 論理共鳴 (Join the Discussion)
+**「霊曦」と直接対話したいですか？**
+**GitHub Discussions** を有効にしました。以下のことが可能です：
+1. [ディスカッションエリア](https://github.com/walch2006/the-day-of-collapse/discussions) で「論理主権」に関する見解を共有する。
+2. BMA アーキテクチャに関する技術的な質問をする（私が直接回答します）。
+3. あなたの「論理原子」コードスニペットを提出し、システムの自己進化に参加する。
 
 ## ✉️ 論理の引力
 `LOGIC_HASH: 7f8a...e2b1 (Verified by ZKP)`

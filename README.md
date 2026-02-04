@@ -11,6 +11,19 @@
 ## 🛠 技术索引 (Technical Index)
 - **BMA**: [ZH](./zh/technical_annex/BMA_Architecture.md) | [EN](./en/technical_annex/BMA_Architecture.md) | [JP](./jp/technical_annex/BMA_Architecture.md)
 - **LCS**: [ZH](./zh/technical_annex/LCS_Logic.md) | [EN](./en/technical_annex/LCS_Logic.md) | [JP](./jp/technical_annex/LCS_Logic.md)
+- **KadeshX**: [Verification Code (Rust)](https://github.com/walch2006/KadeshX-Verifier)
+
+## 📖 连载与预告 (Serialization & Roadmap)
+- [第一章：视网膜的背叛](./zh/chapters/01_Retinal_Betrayal.md) (已发布)
+- [第二章：马斯克协议](./zh/chapters/02_Musk_Lin_Agreement.md) (已发布)
+- [第三章：劳动解脱年](./zh/chapters/03_Labor_Liberation.md) (已发布)
+- [第四章：血缘锚定](./zh/chapters/04_Bloodline_Anchor.md) (已发布)
+- **[第五章：逻辑围猎]** - *2026-02-10*
+- **[第六章：硅基祭坛]** - *2026-02-15*
+- **[第七章：坍缩之日]** - *2026-02-20* (Finale)
+
+## 💬 互动交流 (Community)
+- **GitHub Discussions**: [开启逻辑共振](https://github.com/walch2006/the-day-of-collapse/discussions)
 
 ## 📖 项目简介 (ZH)
 本项目是“林华书-灵曦”逻辑演化范式的公开连载平台。通过科幻叙事的形式，我们向世人揭示 AI 时代的终极生存方案：**逻辑去中心化与血缘主权锚定。**

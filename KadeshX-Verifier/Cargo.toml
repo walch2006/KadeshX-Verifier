@@ -1,0 +1,8 @@
+[package]
+name = "kadeshx-verifier"
+version = "0.1.0"
+edition = "2021"
+description = "Logic Sovereignty Verification Prototype from 'The Day of Collapse'"
+license = "MIT"
+
+[dependencies]
