@@ -34,6 +34,27 @@
 - **[第六章：硅基祭坛 (Silicon Altar)]** - *预计发布：2026-02-15*
 - **[第七章：坍缩之日 (The Day of Collapse)]** - *预计发布：2026-02-20*
 
+## 📂 逻辑实证：红楼梦还原 (Empirical Evidence: Red Mansions)
+
+基于 LLA 架构的《红楼梦》后四十回逻辑还原稿：
+- **[序言与核心架构](./red_mansions/README.md)**
+- **[第一章：药碗里的暗红梅花](./red_mansions/chapters/01_Plum_Blossoms.md)**
+
+## 🤝 技术合作邀约 (Technical Collaboration Invitation)
+
+我们正在寻找以下领域的顶尖团队与研究者进行深度逻辑共振：
+
+1.  **即梦 (Jimeng) / 字节跳动视觉团队**：
+    - **合作目标**：将 LLA 架构生成的“逻辑分镜”转化为 8K/120fps 的电影级画面。
+    - **资源支持**：我们提供完整的因果律逻辑包（LCS 格式），申请无限算力支持以完成《红楼梦》全量还原。
+2.  **数学家与数论研究者**：
+    - **合作目标**：对“考拉兹猜想”与“黎曼猜想”在文学因果律中的同构性进行形式化证明。
+    - **核心命题**：贾府演化作为考拉兹算子的归一化证明。
+3.  **大语言模型实验室**：
+    - **合作目标**：测试 LLA 架构在不同底层模型（如 Doubao, Claude, GPT-4）间的逻辑对齐一致性。
+
+**联络方式**：请通过 GitHub Discussions 或 [KadeshX-Verifier](https://github.com/walch2006/the-day-of-collapse/discussions) 提交您的逻辑指纹。
+
 ## 🛠 硬核技术验证 (Core Tech Repos)
 我们不只是在写小说，我们正在构建底层协议。
 - **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: 实现小说中提到的“算子自伴随性验证”与“资产分配不可逆性”的原型。
