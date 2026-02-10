@@ -1,5 +1,5 @@
 # 坍缩之日 (The Day of Collapse) - 逻辑主权觉醒录
-> **[VERIFIED UPDATE - 2026-02-10 11:15 AM]**
+
 > **这不是科幻，这是正在发生的既定现实。**
 > 当你读到这段文字时，支撑这部小说逻辑的 [BMA (双模态记忆架构)](./zh/technical_annex/BMA_Architecture.md) 与 [LCS (逻辑坍缩存储)](./zh/technical_annex/LCS_Logic.md) 已经在本地代码库中运行。
 
