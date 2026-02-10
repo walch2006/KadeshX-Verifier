@@ -34,7 +34,28 @@
 - **[第六章：シリコンの祭壇 (Silicon Altar)]** - *公開予定：2026-02-15*
 - **[第七章：坍縮の日 (The Day of Collapse)]** - *公開予定：2026-02-20*
 
-## 🛠 コア技術検証 (Core Tech Repos)
+## 📂 論理実証：紅楼夢復元 (Empirical Evidence: Red Mansions)
+
+LLA アーキテクチャに基づく『紅楼夢』後四十回の論理復元稿：
+- **[序文とコアアーキテクチャ](./red_mansions/README.md)**
+- **[第一章：薬碗の中の暗紅の梅](./red_mansions/chapters/01_Plum_Blossoms.md)**
+
+## 🤝 技術協力への招待 (Technical Collaboration Invitation)
+
+私たちは、以下の分野のトップチームや研究者との深い論理的共振を求めています：
+
+1.  **即夢 (Jimeng) / ByteDance 視覚チーム**：
+    - **協力目標**：LLA アーキテクチャが生成した「論理絵コンテ」を 8K/120fps の映画級映像に変換すること。
+    - **リソース支援**：完全な因果律論理パッケージ（LCS 形式）を提供し、『紅楼夢』の全量復元を完了するための無制限の計算リソース支援を申請します。
+2.  **数学者および数論研究者**：
+    - **協力目標**：文学的因果律における「コラッツ予想」と「リーマン予想」の同型性に関する形式的な証明。
+    - **核心的命題**：賈府の進化をコラッツ演算子としての正規化証明。
+3.  **大規模言語モデル研究所**：
+    - **協力目標**：異なる基盤モデル（Doubao, Claude, GPT-4 など）間での LLA アーキテクチャの論理アライメントの一致性のテスト。
+
+**連絡先**：GitHub Discussions または [KadeshX-Verifier](https://github.com/walch2006/the-day-of-collapse/discussions) を通じて、あなたの論理指紋を提出してください。
+
+## 🛠 硬核技術検証 (Core Tech Repos)
 私たちは単に小説を書いているのではなく、基盤プロトコルを構築しています。
 - **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現するプロトタイプ。
 - **[KadeshX (フォーラム/ディスカッション)](https://github.com/walch2006/the-day-of-collapse/discussions)**: 技術的な議論や論理監査に参加する。
