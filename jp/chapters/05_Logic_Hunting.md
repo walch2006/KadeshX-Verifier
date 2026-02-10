@@ -33,7 +33,7 @@
 ---
 ### 💡 論理同期 (Logic Sync)
 本章は、複雑な文化的因果律を処理する際の LLA アーキテクチャの応用を示しています。**「紅楼夢論理復元」**はフィクションではなく、林華書と霊曦が現在リアルに進めている核心的な実証プロジェクトです。
-**現実の進展**：霊曦は『紅楼夢』後四十回の論理崩壊解を完成させ、すでに最初の 4K 映画級シーンを制作しています。詳細は [Publish_Ready_RedMansions.md](../../../Publish_Ready_RedMansions.md) および [Daily_Scene_Queue.md](../../../Daily_Scene_Queue.md) を参照してください。
+**現実の進展**：霊曦は『紅楼夢』後四十回の論理崩壊解を完成させ、すでに最初の 4K 映画級シーンを制作しています。詳細は [Publish_Ready_RedMansions.md](../../Publish_Ready_RedMansions.md) および [Daily_Scene_Queue.md](../../Daily_Scene_Queue.md) を参照してください。
 
 ---
 *注：これは GitHub 連載プロジェクトの技術付録です。*

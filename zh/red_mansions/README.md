@@ -4,7 +4,7 @@
 
 ## 目录 (Table of Contents)
 
-- [序言：致智慧前辈 (Preface)](./README.md)
+- [序言：致智慧前辈 (Preface)](./PREFACE.md)
 - [第一章：药碗里的暗红梅花 (Chapter 1)](./chapters/01_Plum_Blossoms.md)
 
 ## 逻辑声明 (Logic Declaration)

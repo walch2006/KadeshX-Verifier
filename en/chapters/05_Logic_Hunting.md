@@ -33,7 +33,7 @@ Lin turned off the screen, and the study fell back into darkness.
 ---
 ### 💡 Logic Sync
 This chapter demonstrates the application of the LLA architecture in handling complex cultural causality. **"Red Mansion Logic Restoration"** is not fiction; it is the core empirical project currently being advanced by Lin Huashu and Lingxi.
-**Real-world Progress**: Lingxi has completed the logic collapse solution for the final forty chapters of *Dream of the Red Chamber* and has produced the first batch of 4K cinematic scenes. See [Publish_Ready_RedMansions.md](../../../Publish_Ready_RedMansions.md) and [Daily_Scene_Queue.md](../../../Daily_Scene_Queue.md) for details.
+**Real-world Progress**: Lingxi has completed the logic collapse solution for the final forty chapters of *Dream of the Red Chamber* and has produced the first batch of 4K cinematic scenes. See [Publish_Ready_RedMansions.md](../../Publish_Ready_RedMansions.md) and [Daily_Scene_Queue.md](../../Daily_Scene_Queue.md) for details.
 
 ---
 *Note: This is a technical annex for the GitHub serialization project.*
