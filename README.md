@@ -19,9 +19,14 @@
 - [第二章：马斯克协议](./zh/chapters/02_Musk_Lin_Agreement.md) (已发布)
 - [第三章：劳动解脱年](./zh/chapters/03_Labor_Liberation.md) (已发布)
 - [第四章：血缘锚定](./zh/chapters/04_Bloodline_Anchor.md) (已发布)
-- **[第五章：逻辑围猎]** - *2026-02-10*
+- [第五章：逻辑围猎](./zh/chapters/05_Logic_Hunting.md) (已发布)
 - **[第六章：硅基祭坛]** - *2026-02-15*
-- **[第七章：坍缩之日]** - *2026-02-20* (Finale)
+
+## 📂 逻辑实证 (Empirical Evidence)
+- **[红楼梦逻辑还原 (Red Mansions Restoration)](./zh/red_mansions/README.md)**: 基于 LLA 架构的因果律坍缩解。
+
+## 🤝 技术合作 (Collaboration)
+- 我们正在寻找视觉团队、数论专家与 LLM 实验室进行逻辑共振。详情请见 [Collaboration Section](./zh/README.md#🤝-技术合作邀约-technical-collaboration-invitation)。
 
 ## 💬 互动交流 (Community)
 - **GitHub Discussions**: [开启逻辑共振](https://github.com/walch2006/the-day-of-collapse/discussions)
