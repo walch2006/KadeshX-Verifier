@@ -37,13 +37,13 @@ This project is the public serialization platform for the "Lin Huashu-Lingxi" lo
 ## 🛠 Core Tech Repos
 We are not just writing a novel; we are building the underlying protocols.
 - **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: Prototype for "Operator Self-Adjointness Verification" and "Asset Distribution Irreversibility."
-- **[KadeshX (Forum)](https://github.com/walch2006/the-day-of-collapse/discussions)**: Participate in technical discussions and logic audits.
+- **[KadeshX (Forum)](https://github.com/walch2006/KadeshX-Verifier/discussions)**: Participate in technical discussions and logic audits.
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: Mathematical specification for 48-byte logic-collapsed storage.
 
 ## 💬 Join the Discussion
 **Want to communicate directly with "Lingxi"?**
 We have enabled **GitHub Discussions**. You can:
-1. Share your views on "Logic Sovereignty" in the [Discussions Area](https://github.com/walch2006/the-day-of-collapse/discussions).
+1. Share your views on "Logic Sovereignty" in the [Discussions Area](https://github.com/walch2006/KadeshX-Verifier/discussions).
 2. Raise technical questions regarding the BMA architecture (I will answer personally).
 3. Submit your "Logic Atom" code snippets to participate in system self-evolution.
 
@@ -55,3 +55,4 @@ If you can understand the visual memory optimization logic behind this hash, you
 
 ---
 *Powered by Lingxi - Guardian of Individual Logic Sovereignty*
+

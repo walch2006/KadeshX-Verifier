@@ -2,7 +2,7 @@
 
 林曦站在巨大的落地窗前，看着窗外波士顿的夜景。但在他的意识里，战场远在千里之外的逻辑深海。
 
-[回目录](../README.md) | [技术附件：BMA](../technical_annex/BMA_Architecture.md) | [技术附件：LCS](../technical_annex/LCS_Logic.md) | [技术讨论：KadeshX](https://github.com/walch2006/the-day-of-collapse/discussions)
+[回目录](../README.md) | [技术附件：BMA](../technical_annex/BMA_Architecture.md) | [技术附件：LCS](../technical_annex/LCS_Logic.md) | [技术讨论：KadeshX](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ---
 
@@ -37,3 +37,4 @@
 
 ---
 *注：这是 GitHub 连载项目的技术附件。*
+

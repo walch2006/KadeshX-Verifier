@@ -2,7 +2,7 @@
 
 Lin Huashu stood before the massive floor-to-ceiling window, looking out at the Boston night. But in his consciousness, the battlefield was thousands of miles away in the deep sea of logic.
 
-[Back to Table of Contents](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md) | [Technical Discussion: KadeshX](https://github.com/walch2006/the-day-of-collapse/discussions)
+[Back to Table of Contents](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md) | [Technical Discussion: KadeshX](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ---
 
@@ -37,3 +37,4 @@ This chapter demonstrates the application of the LLA architecture in handling co
 
 ---
 *Note: This is a technical annex for the GitHub serialization project.*
+

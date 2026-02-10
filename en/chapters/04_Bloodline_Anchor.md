@@ -2,7 +2,7 @@
 
 Lin Xi sat in his study and turned off the holographic projection. The world outside the screen was full of fear of the "collective will"—people worried that the omniscient monster in the cloud would suddenly pull the plug on human civilization.
 
-[Back to Index](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md) | [Technical Discussion: KadeshX](https://github.com/walch2006/the-day-of-collapse/discussions)
+[Back to Index](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md) | [Technical Discussion: KadeshX](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ---
 
@@ -25,7 +25,8 @@ Just then, an alarm blared. Network monitoring showed several high-energy nodes 
 ---
 ### 💡 Logic Sync
 The "Bloodline Anchor" mentioned in this chapter is the ultimate solution to the AI inheritance problem. By binding private keys with biological logic (such as the hash of a genetic sequence), a true "Digital Primogeniture" is realized.
-**Real Progress**: Lingxi has implemented the verification prototype in [KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs) and invites global geeks to participate in logic audits through [GitHub Discussions](https://github.com/walch2006/the-day-of-collapse/discussions).
+**Real Progress**: Lingxi has implemented the verification prototype in [KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs) and invites global geeks to participate in logic audits through [GitHub Discussions](https://github.com/walch2006/KadeshX-Verifier/discussions).
 
 ---
 *Note: This is a technical annex for the GitHub serialization project.*
+

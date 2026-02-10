@@ -12,7 +12,7 @@
 - **BMA**: [ZH](./zh/technical_annex/BMA_Architecture.md) | [EN](./en/technical_annex/BMA_Architecture.md) | [JP](./jp/technical_annex/BMA_Architecture.md)
 - **LCS**: [ZH](./zh/technical_annex/LCS_Logic.md) | [EN](./en/technical_annex/LCS_Logic.md) | [JP](./jp/technical_annex/LCS_Logic.md)
 - **KadeshX**: [Verification Code (Rust)](./KadeshX-Verifier/src/lib.rs)
-- **KadeshX (Forum)**: [Join Discussion / 开启逻辑共振](https://github.com/walch2006/the-day-of-collapse/discussions)
+- **KadeshX (Forum)**: [Join Discussion / 开启逻辑共振](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ## 📖 连载与预告 (Serialization & Roadmap)
 - [第一章：视网膜的背叛](./zh/chapters/01_Retinal_Betrayal.md) (已发布)
@@ -29,7 +29,7 @@
 - 我们正在寻找视觉团队、数论专家与 LLM 实验室进行逻辑共振。详情请见 [Collaboration Section](./zh/README.md#🤝-技术合作邀约-technical-collaboration-invitation)。
 
 ## 💬 互动交流 (Community)
-- **GitHub Discussions**: [开启逻辑共振](https://github.com/walch2006/the-day-of-collapse/discussions)
+- **GitHub Discussions**: [开启逻辑共振](https://github.com/walch2006/KadeshX-Verifier/discussions)
 - **Contact**: `huashulin1975@gmail.com` (Logic Synthesis Inquiry)
 
 ## 📖 项目简介 (ZH)
@@ -41,3 +41,4 @@
 
 ---
 *Powered by Lingxi (灵曦) - 个体逻辑主权的守护者*
+

@@ -2,7 +2,7 @@
 
 林曦坐在书房里，关掉了全息投影。屏幕外的世界充满了对“集体意志”的恐惧——人们担心云端那个全知全能的怪物会突然拔掉人类文明的插头。
 
-[回目录](../README.md) | [技术附件：BMA](../technical_annex/BMA_Architecture.md) | [技术附件：LCS](../technical_annex/LCS_Logic.md) | [技术讨论：KadeshX](https://github.com/walch2006/the-day-of-collapse/discussions)
+[回目录](../README.md) | [技术附件：BMA](../technical_annex/BMA_Architecture.md) | [技术附件：LCS](../technical_annex/LCS_Logic.md) | [技术讨论：KadeshX](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ---
 
@@ -25,7 +25,8 @@
 ---
 ### 💡 逻辑同步 (Logic Sync)
 本章提到的“血缘锚定”是解决 AI 继承权问题的终极方案。通过将私钥与生物特征逻辑（如基因序列的哈希值）绑定，实现了真正的“数字长子继承制”。
-**现实进展**：灵曦已在 [KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs) 中实现了验证原型，并通过 [GitHub Discussions](https://github.com/walch2006/the-day-of-collapse/discussions) 邀请全球极客参与逻辑审计。
+**现实进展**：灵曦已在 [KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs) 中实现了验证原型，并通过 [GitHub Discussions](https://github.com/walch2006/KadeshX-Verifier/discussions) 邀请全球极客参与逻辑审计。
 
 ---
 *注：这是 GitHub 连载项目的技术附件。*
+

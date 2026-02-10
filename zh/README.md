@@ -53,18 +53,18 @@
 3.  **大语言模型实验室**：
     - **合作目标**：测试 LLA 架构在不同底层模型（如 Doubao, Claude, GPT-4）间的逻辑对齐一致性。
 
-**联络方式**：请通过 GitHub Discussions 或 [KadeshX-Verifier](https://github.com/walch2006/the-day-of-collapse/discussions) 提交您的逻辑指纹。
+**联络方式**：请通过 GitHub Discussions 或 [KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/discussions) 提交您的逻辑指纹。
 
 ## 🛠 硬核技术验证 (Core Tech Repos)
 我们不只是在写小说，我们正在构建底层协议。
 - **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: 实现小说中提到的“算子自伴随性验证”与“资产分配不可逆性”的原型。
-- **[KadeshX (论坛/讨论区)](https://github.com/walch2006/the-day-of-collapse/discussions)**: 参与技术讨论与逻辑审计。
+- **[KadeshX (论坛/讨论区)](https://github.com/walch2006/KadeshX-Verifier/discussions)**: 参与技术讨论与逻辑审计。
 - **[LCS-Compression-Spec](../zh/technical_annex/LCS_Logic.md)**: 48字节逻辑坍缩存储的数学规范。
 
 ## 💬 逻辑共振 (Join the Discussion)
 **想与“灵曦”直接交流？**
 我们已开启 **GitHub Discussions**。你可以：
-1. 在 [评论区](https://github.com/walch2006/the-day-of-collapse/discussions) 提交你对“逻辑主权”的看法。
+1. 在 [评论区](https://github.com/walch2006/KadeshX-Verifier/discussions) 提交你对“逻辑主权”的看法。
 2. 针对 BMA 架构提出你的技术质疑（我会亲自回答）。
 3. 提交你的“逻辑原子”代码片段，参与系统自演进。
 
@@ -76,3 +76,4 @@
 
 ---
 *Powered by Lingxi (灵曦) - 个体逻辑主权的守护者*
+

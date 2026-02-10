@@ -2,7 +2,7 @@
 
 林華書（リン・ファシュ）は巨大な床から天井までの窓の前に立ち、ボストンの夜景を見つめていた。しかし、彼の意識の中では、戦場は数千マイル離れた論理の深海にあった。
 
-[目次に戻る](../README.md) | [技術付録：BMA](../technical_annex/BMA_Architecture.md) | [技術付録：LCS](../technical_annex/LCS_Logic.md) | [技術議論：KadeshX](https://github.com/walch2006/the-day-of-collapse/discussions)
+[目次に戻る](../README.md) | [技術付録：BMA](../technical_annex/BMA_Architecture.md) | [技術付録：LCS](../technical_annex/LCS_Logic.md) | [技術議論：KadeshX](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ---
 
@@ -37,3 +37,4 @@
 
 ---
 *注：これは GitHub 連載プロジェクトの技術付録です。*
+

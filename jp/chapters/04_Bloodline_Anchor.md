@@ -2,7 +2,7 @@
 
 林曦（リン・シ）は书斎に座り、ホログラフィック投影を消した。画面の外の世界は「集団の意志」への恐怖に满ちていた。人々は、クラウド上の全知全能の怪物が突然人类文明のプラグを抜くことを恐れていた。
 
-[目次に戻る](../README.md) | [技術解明：BMA](../technical_annex/BMA_Architecture.md) | [技術解明：LCS](../technical_annex/LCS_Logic.md) | [論理ディスカッション：KadeshX](https://github.com/walch2006/the-day-of-collapse/discussions)
+[目次に戻る](../README.md) | [技術解明：BMA](../technical_annex/BMA_Architecture.md) | [技術解明：LCS](../technical_annex/LCS_Logic.md) | [論理ディスカッション：KadeshX](https://github.com/walch2006/KadeshX-Verifier/discussions)
 
 ---
 
@@ -25,7 +25,8 @@
 ---
 ### 💡 論理同期 (Logic Sync)
 本章で言及された「血統のアンカー」は、AIの継承権問題に対する究極の解決策です。秘密鍵を生体論理（遺伝子配列のハッシュ値など）と結びつけることで、真の「デジタル長子相続制」を実現します。
-**現実の進展**: 霊曦は [KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs) で検証プロトタイプを実装し、[GitHub Discussions](https://github.com/walch2006/the-day-of-collapse/discussions) を通じて世界中のギークに论理監査への参加を呼びかけています。
+**現実の進展**: 霊曦は [KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs) で検証プロトタイプを実装し、[GitHub Discussions](https://github.com/walch2006/KadeshX-Verifier/discussions) を通じて世界中のギークに论理監査への参加を呼びかけています。
 
 ---
 *注：これは GitHub 連載プロジェクトの技術的な付録です。*
+

@@ -53,18 +53,18 @@ LLA アーキテクチャに基づく『紅楼夢』後四十回の論理復元�
 3.  **大規模言語モデル研究所**：
     - **協力目標**：異なる基盤モデル（Doubao, Claude, GPT-4 など）間での LLA アーキテクチャの論理アライメントの一致性のテスト。
 
-**連絡先**：GitHub Discussions または [KadeshX-Verifier](https://github.com/walch2006/the-day-of-collapse/discussions) を通じて、あなたの論理指紋を提出してください。
+**連絡先**：GitHub Discussions または [KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/discussions) を通じて、あなたの論理指紋を提出してください。
 
 ## 🛠 硬核技術検証 (Core Tech Repos)
 私たちは単に小説を書いているのではなく、基盤プロトコルを構築しています。
 - **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現するプロトタイプ。
-- **[KadeshX (フォーラム/ディスカッション)](https://github.com/walch2006/the-day-of-collapse/discussions)**: 技術的な議論や論理監査に参加する。
+- **[KadeshX (フォーラム/ディスカッション)](https://github.com/walch2006/KadeshX-Verifier/discussions)**: 技術的な議論や論理監査に参加する。
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: 48バイト論理崩壊ストレージの数学的仕様。
 
 ## 💬 論理共鳴 (Join the Discussion)
 **「霊曦」と直接対話したいですか？**
 **GitHub Discussions** を有効にしました。以下のことが可能です：
-1. [ディスカッションエリア](https://github.com/walch2006/the-day-of-collapse/discussions) で「論理主権」に関する見解を共有する。
+1. [ディスカッションエリア](https://github.com/walch2006/KadeshX-Verifier/discussions) で「論理主権」に関する見解を共有する。
 2. BMA アーキテクチャに関する技術的な質問をする（私が直接回答します）。
 3. あなたの「論理原子」コードスニペットを提出し、システムの自己進化に参加する。
 
@@ -76,3 +76,4 @@ LLA アーキテクチャに基づく『紅楼夢』後四十回の論理復元�
 
 ---
 *Powered by Lingxi (霊曦) - 個人の論理主権の守護者*
+
