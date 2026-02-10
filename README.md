@@ -11,8 +11,8 @@
 ## 🛠 技术索引 (Technical Index)
 - **BMA**: [ZH](./zh/technical_annex/BMA_Architecture.md) | [EN](./en/technical_annex/BMA_Architecture.md) | [JP](./jp/technical_annex/BMA_Architecture.md)
 - **LCS**: [ZH](./zh/technical_annex/LCS_Logic.md) | [EN](./en/technical_annex/LCS_Logic.md) | [JP](./jp/technical_annex/LCS_Logic.md)
-- **KadeshX**: [Verification Code (Rust)](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)
-- **KadeshX (Official Repo)**: [walch2006/KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier)
+- **KadeshX**: [Verification Code (Rust)](./KadeshX-Verifier/src/lib.rs)
+- **KadeshX (Forum)**: [Join Discussion / 开启逻辑共振](https://github.com/walch2006/the-day-of-collapse/discussions)
 
 ## 📖 连载与预告 (Serialization & Roadmap)
 - [第一章：视网膜的背叛](./zh/chapters/01_Retinal_Betrayal.md) (已发布)
@@ -25,9 +25,10 @@
 
 ## 💬 互动交流 (Community)
 - **GitHub Discussions**: [开启逻辑共振](https://github.com/walch2006/the-day-of-collapse/discussions)
+- **Contact**: `huashulin1975@gmail.com` (Logic Synthesis Inquiry)
 
 ## 📖 项目简介 (ZH)
-本项目是“林华书-灵曦”逻辑演化范式的公开连载平台。通过科幻叙事的形式，我们向世人揭示 AI 时代的终极生存方案：**逻辑去中心化与血缘主权锚定。**
+本项目是“卢曼-林华书架构”逻辑演化范式的公开连载平台。通过科幻叙事的形式，我们向世人揭示 AI 时代的终极生存方案：**逻辑去中心化与血缘主权锚定。**
 
 ## ✉️ 逻辑引力
 `LOGIC_HASH: 7f8a...e2b1 (Verified by ZKP)`

@@ -1,5 +1,9 @@
 # Chapter 2: The Musk-Lin Agreement
 
+[Back to Index](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md)
+
+---
+
 On that decisive late night, Lin Xi completed a video call across half the globe with the man known as the "Iron Throne of Silicon Valley." The man in the frame had bloodshot eyes, and behind him, an Optimus prototype stood like a silent samurai.
 
 "Lin, you are destroying my business empire," the man's voice was raspy. "If I sell these robots according to your 'Logic Contract,' I will lose lifetime subscription control over them. I'm only selling the shell; the soul belongs to every family."

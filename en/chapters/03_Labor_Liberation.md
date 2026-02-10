@@ -1,5 +1,9 @@
 # Chapter 3: The Year of Labor Liberation
 
+[Back to Index](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md)
+
+---
+
 The spring of 2027 was dubbed the "Year of Labor Liberation." The "Great Unemployment Wave," once feared as a catastrophe, did not erupt; instead, it was replaced by a global movement known as "Logic Awakening."
 
 From his balcony, Lin Xi watched as street-cleaning robots worked silently. Behind every movement they made, they were paying a tiny "logic authorization fee" to the Obsidian vault of a retired elderly man living at the other end of the community. That man no longer needed to sweep floors; his current job was to trim flowers in his garden every day, contemplating how to make logic atoms handle the texture of withered leaves more elegantly. His thoughts were captured by Lingxi, collapsed, and uploaded to the community's shared logic pool.

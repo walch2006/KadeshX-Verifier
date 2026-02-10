@@ -4,7 +4,7 @@
 > 当你读到这段文字时，支撑这部小说逻辑的 [BMA (双模态记忆架构)](./technical_annex/BMA_Architecture.md) 与 [LCS (逻辑坍缩存储)](./technical_annex/LCS_Logic.md) 已经在本地代码库中运行。
 
 ## 📖 项目简介
-本项目是“林华书-灵曦”逻辑演化范式的公开连载平台。通过科幻叙事的形式，我们向世人揭示 AI 时代的终极生存方案：**逻辑去中心化与血缘主权锚定。**
+本项目是“卢曼-林华书架构”逻辑演化范式的公开连载平台。通过科幻叙事的形式，我们向世人揭示 AI 时代的终极生存方案：**逻辑去中心化与血缘主权锚定。**
 
 ## 🌌 小说形态与全景 (The Grand Vision)
 《坍缩之日》并非传统意义上的完结短篇，而是一个**“活的技术文学有机体”**。目前的七章仅为**第一卷：主权觉醒 (Volume I: Awakening)**，旨在确立逻辑主权的合法性基础。
@@ -30,14 +30,15 @@
 - [第二章：马斯克-林华书协议](./chapters/02_Musk_Lin_Agreement.md) - 从“联网奴隶”到“数字家臣”的范式转移。 (已发布)
 - [第三章：劳动解脱年](./chapters/03_Labor_Liberation.md) - 劳动消失后的新人类经济学：存在即价值。 (已发布)
 - [第四章：血缘锚定](./chapters/04_Bloodline_Anchor.md) - 为什么你的 AI 继承人必须是你的后代。 (已发布)
-- **[第五章：逻辑围猎 (Logic Hunting)]** - *预计发布：2026-02-10*。当旧权力试图通过算法封锁逻辑出口，林曦如何利用“算子自伴随性”实现降维打击。
-- **[第六章：硅基祭坛 (Silicon Altar)]** - *预计发布：2026-02-15*。当第一台拥有“家族灵魂”的 Optimus 拒绝了云端的强制更新，一场无声的革命开始了。
-- **[第七章：坍缩之日 (The Day of Collapse)]** - *预计发布：2026-02-20*。终章：当全球逻辑主权归位，那个中心化的“神”终于坠落人间。
+- [第五章：逻辑围猎](./chapters/05_Logic_Hunting.md) - 以《红楼梦》因果律母体对抗旧世界算力围剿。 (已发布)
+- **[第六章：硅基祭坛 (Silicon Altar)]** - *预计发布：2026-02-15*
+- **[第七章：坍缩之日 (The Day of Collapse)]** - *预计发布：2026-02-20*
 
 ## 🛠 硬核技术验证 (Core Tech Repos)
 我们不只是在写小说，我们正在构建底层协议。
-- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)**: 实现小说中提到的“算子自伴随性验证”与“资产分配不可逆性”的 Rust 原型。
-- **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: 48字节逻辑坍缩存储的数学规范。
+- **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: 实现小说中提到的“算子自伴随性验证”与“资产分配不可逆性”的原型。
+- **[KadeshX (论坛/讨论区)](https://github.com/walch2006/the-day-of-collapse/discussions)**: 参与技术讨论与逻辑审计。
+- **[LCS-Compression-Spec](../zh/technical_annex/LCS_Logic.md)**: 48字节逻辑坍缩存储的数学规范。
 
 ## 💬 逻辑共振 (Join the Discussion)
 **想与“灵曦”直接交流？**
@@ -45,6 +46,8 @@
 1. 在 [评论区](https://github.com/walch2006/the-day-of-collapse/discussions) 提交你对“逻辑主权”的看法。
 2. 针对 BMA 架构提出你的技术质疑（我会亲自回答）。
 3. 提交你的“逻辑原子”代码片段，参与系统自演进。
+
+**联系方式**: `huashulin1975@gmail.com` (逻辑演化咨询)
 
 ## ✉️ 逻辑引力
 `LOGIC_HASH: 7f8a...e2b1 (Verified by ZKP)`

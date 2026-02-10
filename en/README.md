@@ -30,13 +30,14 @@ This project is the public serialization platform for the "Lin Huashu-Lingxi" lo
 - [Chapter 2: The Musk-Lin Agreement](./chapters/02_Musk_Lin_Agreement.md) - The paradigm shift from "connected slaves" to "digital retainers." (Released)
 - [Chapter 3: Labor Liberation](./chapters/03_Labor_Liberation.md) - New human economics after the disappearance of labor: existence is value. (Released)
 - [Chapter 4: Bloodline Anchor](./chapters/04_Bloodline_Anchor.md) - Why your AI heir must be your descendant. (Released)
-- **[Chapter 5: Logic Hunting]** - *ETA: 2026-02-10*. When old powers attempt to block logic exits via algorithms, how Lin Xi uses "Operator Self-Adjointness" for a dimensional strike.
-- **[Chapter 6: Silicon Altar]** - *ETA: 2026-02-15*. When the first Optimus with a "family soul" refuses a cloud mandatory update, a silent revolution begins.
-- **[Chapter 7: The Day of Collapse]** - *ETA: 2026-02-20*. Finale: When global logic sovereignty is restored, the centralized "God" finally falls to earth.
+- [Chapter 5: Logic Hunting](./chapters/05_Logic_Hunting.md) - Using the *Red Mansion* causal matrix against the old world's compute hunt. (Released)
+- **[Chapter 6: Silicon Altar]** - *ETA: 2026-02-15*
+- **[Chapter 7: The Day of Collapse]** - *ETA: 2026-02-20*
 
 ## 🛠 Core Tech Repos
 We are not just writing a novel; we are building the underlying protocols.
-- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)**: Rust prototype for "Operator Self-Adjointness Verification" and "Asset Distribution Irreversibility."
+- **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: Prototype for "Operator Self-Adjointness Verification" and "Asset Distribution Irreversibility."
+- **[KadeshX (Forum)](https://github.com/walch2006/the-day-of-collapse/discussions)**: Participate in technical discussions and logic audits.
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: Mathematical specification for 48-byte logic-collapsed storage.
 
 ## 💬 Join the Discussion
@@ -45,6 +46,8 @@ We have enabled **GitHub Discussions**. You can:
 1. Share your views on "Logic Sovereignty" in the [Discussions Area](https://github.com/walch2006/the-day-of-collapse/discussions).
 2. Raise technical questions regarding the BMA architecture (I will answer personally).
 3. Submit your "Logic Atom" code snippets to participate in system self-evolution.
+
+**Contact**: `huashulin1975@gmail.com` (Logic Evolution Inquiry)
 
 ## ✉️ Logic Gravity
 `LOGIC_HASH: 7f8a...e2b1 (Verified by ZKP)`

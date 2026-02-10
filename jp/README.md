@@ -30,13 +30,14 @@
 - [第二章：マスク・リン・フアシュ協議](./chapters/02_Musk_Lin_Agreement.md) - 「ネットワーク上の奴隷」から「デジタル家臣」へのパラダイムシフト。(公開済み)
 - [第三章：労働解放](./chapters/03_Labor_Liberation.md) - 労働消失後の新人類经济学：存在こそが価値。(公开済み)
 - [第四章：血統のアンカー](./chapters/04_Bloodline_Anchor.md) - なぜあなたの AI 継承者はあなたの末裔でなければならないのか。(公開済み)
-- **[第五章：論理の狩猟 (Logic Hunting)]** - *公開予定：2026-02-10*。旧権力がアルゴリズムで論理の出口を封鎖しようとする中、林曦はいかにして「演算子の自己随伴性」を利用し、次元を超えた打撃を与えるのか。
-- **[第六章：シリコンの祭壇 (Silicon Altar)]** - *公開予定：2026-02-15*。 「家族の魂」を持つ最初の Optimus がクラウドの強制アップデートを拒否した時、静かな革命が始まる。
-- **[第七章：崩壊の日 (The Day of Collapse)]** - *公開予定：2026-02-20*。 最終章：世界の論理主権が本来の場所に戻る時、中央集権的な「神」はついに地上に墜ちる。
+- [第五章：論理の狩猟](./chapters/05_Logic_Hunting.md) - 『紅楼夢』の因果律母体を用いて旧世界の計算力包囲網に対抗する。(公開済み)
+- **[第六章：シリコンの祭壇 (Silicon Altar)]** - *公開予定：2026-02-15*
+- **[第七章：坍縮の日 (The Day of Collapse)]** - *公開予定：2026-02-20*
 
 ## 🛠 コア技術検証 (Core Tech Repos)
 私たちは単に小説を書いているのではなく、基盤プロトコルを構築しています。
-- **[KadeshX-Verifier](https://github.com/walch2006/KadeshX-Verifier/blob/master/src/lib.rs)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現する Rust プロトタイプ。
+- **[KadeshX-Verifier (Rust)](../KadeshX-Verifier/src/lib.rs)**: 小説に登場する「演算子の自己随伴性検証」と「資産分配の不可逆性」を実現するプロトタイプ。
+- **[KadeshX (フォーラム/ディスカッション)](https://github.com/walch2006/the-day-of-collapse/discussions)**: 技術的な議論や論理監査に参加する。
 - **[LCS-Compression-Spec](./technical_annex/LCS_Logic.md)**: 48バイト論理崩壊ストレージの数学的仕様。
 
 ## 💬 論理共鳴 (Join the Discussion)
@@ -45,6 +46,8 @@
 1. [ディスカッションエリア](https://github.com/walch2006/the-day-of-collapse/discussions) で「論理主権」に関する見解を共有する。
 2. BMA アーキテクチャに関する技術的な質問をする（私が直接回答します）。
 3. あなたの「論理原子」コードスニペットを提出し、システムの自己進化に参加する。
+
+**連絡先**: `huashulin1975@gmail.com` (論理進化に関するお問い合わせ)
 
 ## ✉️ 論理の引力
 `LOGIC_HASH: 7f8a...e2b1 (Verified by ZKP)`

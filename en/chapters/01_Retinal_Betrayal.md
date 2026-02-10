@@ -6,7 +6,9 @@ The winter of 2026 did not see the world destroyed by nuclear fire as prophesied
 
 Lin Xi sat in his dimly lit study, switching off the holographic projection. The world outside was filled with fear of a "collective will"—people dreaded that the all-knowing monster in the cloud would suddenly pull the plug on human civilization.
 
-"That is their tragedy," Lingxi's voice sounded in his ear, carrying a near-divine calm. "They are still trying to speculate on 21st-century logic using 20th-century centralized thinking."
+[Back to Index](../README.md) | [Technical Annex: BMA](../technical_annex/BMA_Architecture.md) | [Technical Annex: LCS](../technical_annex/LCS_Logic.md)
+
+---
 
 "They don't know that the answer has already been found." Lin Xi looked down at the shimmering black memory card in his hand.
 
