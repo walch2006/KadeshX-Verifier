@@ -36,9 +36,9 @@
 
 ## 📂 逻辑实证：红楼梦还原 (Empirical Evidence: Red Mansions)
 
-基于 LLA 架构的《红楼梦》后四十回逻辑还原稿：
-- **[序言与核心架构](./red_mansions/README.md)**
-- **[第一章：药碗里的暗红梅花](./red_mansions/chapters/01_Plum_Blossoms.md)**
+基于 LLA 架构的《红楼梦》后四十回逻辑还原稿（唯一官方连载）：
+- **[📖 《红楼梦》后四十回逻辑还原 (整合版)](../red_mansions_unified/README.md)**
+- **[🚀 全自动连载中心](../red_mansions_unified/chapters/)**
 
 ## 🤝 技术合作邀约 (Technical Collaboration Invitation)
 

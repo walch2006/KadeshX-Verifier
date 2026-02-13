@@ -1,0 +1,45 @@
+{
+    "project": "红楼梦逻辑还原 (Red Mansions Logic Restoration)",
+    "unified_repo_path": "c:/lingxi/github_serialization/red_mansions_unified",
+    "source_file": "c:/lingxi/HONG_LOU_MENG_SERIAL.md",
+    "last_published_chapter": 83,
+    "next_publish_date": "2026-02-15",
+    "publish_interval_days": 2,
+    "total_chapters": 40,
+    "history": [
+        {
+            "chapter": 81,
+            "title": "叹旧情宝玉伤姊 诉新婚迎春受辱",
+            "date": "2026-02-10",
+            "status": "published"
+        },
+        {
+            "chapter": 82,
+            "title": "误入梦幻识真诠 警幻仙姑传密旨",
+            "date": "2026-02-12",
+            "status": "published"
+        },
+        {
+            "chapter": 83,
+            "title": "凤姐理财心如火 贾琏借贷势愈穷",
+            "date": "2026-02-13",
+            "status": "published"
+        }
+    ],
+    "roadmap": [
+        {"chapter": 84, "title": "试才情贾政考题 忧家业贾母垂泪", "status": "pending"},
+        {"chapter": 85, "title": "贾政升官京畿道 荣府欢腾宴宾客", "status": "pending"},
+        {"chapter": 86, "title": "受贿赂贾雨村婪 论亲事薛姨妈愁", "status": "pending"},
+        {"chapter": 87, "title": "秋窗风雨感身世 潇湘馆内泪如珠", "status": "pending"},
+        {"chapter": 88, "title": "贾母病重忧孙辈 凤姐心计图大观", "status": "pending"},
+        {"chapter": 89, "title": "痴情女焚稿断痴魂 狠舅奸兄谋算计", "status": "pending"},
+        {"chapter": 90, "title": "林黛玉泪尽归灵河 贾宝玉中举别凡尘", "status": "pending"},
+        {"chapter": 91, "title": "元妃薨逝宫闱冷 贾府败落大势倾", "status": "pending"},
+        {"chapter": 92, "title": "贾赦贾珍获重罪 宁荣两府遭抄查", "status": "pending"},
+        {"chapter": 93, "title": "刘姥姥仗义救巧姐 惜春决意入空门", "status": "pending"},
+        {"chapter": 94, "title": "薛宝钗凄清守空闺 贾宝玉重返大观园", "status": "pending"},
+        {"chapter": 95, "title": "警幻仙姑揭迷案 太虚幻境识真源", "status": "pending"},
+        {"chapter": 96, "title": "因果轮转皆前定 逻辑坍缩见真诠", "status": "pending"},
+        {"chapter": 97, "title": "白茫茫大地真干净 (终章)", "status": "pending"}
+    ]
+}
